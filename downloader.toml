@@ -1,0 +1,8 @@
+
+Source = "https://www.example.com/
+Destination = "/tmp"
+
+[[Show]]
+Name = "Something"
+Seasons = [1]
+
